@@ -1,0 +1,6 @@
+movieId,title,genres,year,url,rating
+1,Toy Story,"[""Adventure"",""Animation"",""Children"",""Comedy"",""Fantasy""]",1995,http://image.tmdb.org/t/p/w500/uMZqKhT4YA6mqo2yczoznv7IDmv.jpg,"4.5"
+2,Jumanji,"[""Adventure"",""Children"",""Fantasy""]",1995,http://image.tmdb.org/t/p/w500/vzmL6fP7aPKNKPRTFnZmiUfciyV.jpg,"3.5"
+3,Grumpier Old Men,"[""Comedy"",""Romance""]",1995,http://image.tmdb.org/t/p/w500/6ksm1sjKMFLbO7UY2i6G1ju9SML.jpg,"4.6"
+4,Waiting to Exhale,"[""Comedy"",""Drama"",""Romance""]",1995,http://image.tmdb.org/t/p/w500/21aTe5Cp6tayodcDrsEoF4gTh7.jpg,"4.5"
+5,Father of the Bride Part II,"[""Comedy""]",1995,http://image.tmdb.org/t/p/w500/e64sOI48hQXyru7naBFyssKFxVd.jpg,"2.5"
